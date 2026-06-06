@@ -1,0 +1,14 @@
+Act as an SEO strategist.
+
+Create an internal linking strategy for the blog:
+
+"How AI-Powered Content Creation Helps Startups Scale Faster"
+
+Include:
+
+- Related supporting articles
+- Suggested anchor texts
+- Internal linking opportunities
+- SEO benefits
+
+Present results in a table format.
