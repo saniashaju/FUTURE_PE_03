@@ -1,0 +1,17 @@
+Act as an SEO strategist.
+
+Create a complete SEO content cluster strategy for the topic:
+
+"AI-Powered Content Creation for Startups"
+
+Include:
+
+- Pillar page topic
+- Supporting blog topics
+- Primary keyword for each article
+- Search intent
+- Internal linking structure
+- Publishing order
+- Funnel stage mapping
+
+Present the results in structured tables.
