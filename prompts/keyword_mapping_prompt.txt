@@ -1,0 +1,17 @@
+Act as an SEO specialist.
+
+Analyze the topic:
+
+"How AI-Powered Content Creation Helps Startups Scale Faster"
+
+Provide:
+
+- Primary keyword
+- Secondary keywords
+- Long-tail keywords
+- Search intent
+- Buyer journey stage
+- SEO difficulty estimate
+- Content opportunities
+
+Present results in a structured table.
