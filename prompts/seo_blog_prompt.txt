@@ -1,0 +1,20 @@
+Act as an SEO content strategist.
+
+Create a detailed SEO blog for VisionForge AI.
+
+Target Audience:
+- Startup founders
+- Creators
+- Small business owners
+
+Topic:
+How AI-Powered Content Creation Helps Startups Scale Faster
+
+Requirements:
+- SEO optimized
+- Clear H1, H2, H3 structure
+- Engaging introduction
+- Practical insights
+- Strong conclusion
+- 1000+ words
+- Business-focused tone
